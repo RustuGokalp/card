@@ -1,0 +1,8 @@
+.cardWrapper {
+    width: max-content
+}
+.card-image {
+    width: 200px;
+    height: 150px;
+    margin: 0 auto;
+}
